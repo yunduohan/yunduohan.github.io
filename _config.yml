@@ -3,34 +3,36 @@
 # --------------------------------------------------
 title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Hanlin Cai, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
+title: Yunduo Han   # Main site title (appears in browser tab & RSS)
+tagline: Personal website of Yunduo Han.  # Optional short tagline, used by some layouts
+description: Personal website of Yunduo Han, Student at Hangzhou Dianzi University.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://yunduohan.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Yunduo Han
+  avatar: images/yunduo.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: yunduohan65@gmail.com
+  # cv: 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  instagram: lancecai2002
-  bilibili: 594030035
-  # facebook: caihanlin2002
-  # lastfm:
+  # twitter: 
+  # github: 
+  # linkedin: 
+  # scholar: 
+  # researchgate: 
+  # zhihu: 
+  # xiaohongshu: 
+  # instagram: 
+  # bilibili: 
+  # facebook: 
+  # lastfm: 
   # tumblr:
 
 
