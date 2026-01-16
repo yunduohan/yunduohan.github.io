@@ -1,8 +1,6 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
 title: Yunduo Han   # Main site title (appears in browser tab & RSS)
 tagline: Personal website of Yunduo Han.  # Optional short tagline, used by some layouts
 description: Personal website of Yunduo Han, Student at Hangzhou Dianzi University.  # Strongly recommended for SEO & social cards
@@ -103,7 +101,7 @@ kramdown:
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
 disqus:
-  shortname: lancecai
+  # shortname: lancecai
 
 
 # include: [".htaccess"]

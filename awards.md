@@ -8,5 +8,3 @@ title: Awards
 
 - **National Encouragement Scholarship of China** (2025)
 - **Provincial Government Scholarship of Zhejiang** (2024)
-
-<br>
