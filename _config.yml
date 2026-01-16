@@ -14,7 +14,7 @@ url: https://yunduohan.github.io
 # --------------------------------------------------
 owner:
   name: Yunduo Han
-  avatar: images/yunduo.jpg
+  avatar: yunduo.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: yunduohan65@gmail.com
   # cv: 
@@ -57,8 +57,6 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
   - title: 中文
     url: /cn/
 
